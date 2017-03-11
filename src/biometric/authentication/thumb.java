@@ -17,7 +17,7 @@ public class thumb extends Finger{
  
         this.length=length;
         this.first_joint=first_joint;
-        this.second_joint=second_joint;
+        this.second_joint=0;
         this.width = width;
         
     

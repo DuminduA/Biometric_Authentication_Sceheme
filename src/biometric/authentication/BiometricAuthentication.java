@@ -5,6 +5,8 @@
  */
 package biometric.authentication;
 
+import Views.Input;
+
 /**
  *
  * @author dumindu
@@ -15,7 +17,15 @@ public class BiometricAuthentication {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        Input input = new Input();
+        input.setVisible(true);
+        
+        
+        
+        
+        
+        
     }
     
 }

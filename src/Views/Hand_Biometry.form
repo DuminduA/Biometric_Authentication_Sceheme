@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jLabel1" min="-2" pref="330" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="111" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="32767" attributes="0"/>
+                                  <Component id="jLabel12" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jLabel2" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabel3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabel4" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabel5" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabel6" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="32767" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                      <Component id="SmallFin_Len" max="32767" attributes="0"/>
+                                      <Component id="RingFin_Len" max="32767" attributes="0"/>
+                                      <Component id="MiddleFin_len" max="32767" attributes="0"/>
+                                      <Component id="Indexfin_Len" max="32767" attributes="0"/>
+                                      <Component id="Thumb_Length" pref="43" max="32767" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="-2" pref="131" max="-2" attributes="0"/>
+                          <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" alignment="1" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="Smallfin_FS" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="RingFin_FS" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="MiddleFin_Fs" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="IndexFin_FS" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="Thumb_FS" alignment="1" pref="38" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                          <Component id="Palm_length" min="-2" pref="38" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="jLabel13" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                          <Component id="Palm_width" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="jLabel10" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" alignment="1" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="SmallFin_sc" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="RingFin_SC" alignment="1" pref="44" max="32767" attributes="0"/>
+                                  <Component id="MiddleFin_SC" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="IndexFin_SC" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="Thumb_sj" alignment="1" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                              <Component id="jLabel11" max="32767" attributes="0"/>
+                              <Component id="Thumb_width" alignment="1" max="32767" attributes="0"/>
+                              <Component id="IndexFin_width" alignment="1" max="32767" attributes="0"/>
+                              <Component id="MiddleFin_width" alignment="1" max="32767" attributes="0"/>
+                              <Component id="RingFin_width" alignment="1" max="32767" attributes="0"/>
+                              <Component id="SmallFin_width" alignment="1" max="32767" attributes="0"/>
+                          </Group>
+                          <EmptySpace pref="30" max="32767" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="Cancelbtn" max="32767" attributes="0"/>
+                              <Component id="Okaybtn" max="32767" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel8" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel9" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel10" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel11" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="Thumb_Length" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="Thumb_FS" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="Thumb_sj" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="Thumb_width" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="jLabel3" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="Indexfin_Len" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="IndexFin_FS" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="IndexFin_SC" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="IndexFin_width" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                                  <Component id="Cancelbtn" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="MiddleFin_len" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="MiddleFin_Fs" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="MiddleFin_SC" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="MiddleFin_width" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="Okaybtn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="43" max="-2" attributes="0"/>
+                          <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="RingFin_Len" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="RingFin_FS" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="RingFin_SC" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="RingFin_width" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel6" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="SmallFin_Len" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Smallfin_FS" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="SmallFin_sc" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="SmallFin_width" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="53" max="32767" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel7" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel12" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Palm_length" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel13" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Palm_width" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="48" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="14" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Place your inputs here......"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Thumb"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Index Finger"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel4">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Middle Finger"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel5">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Ring Finger"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel6">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Small Finger"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel7">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Palm"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel8">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Length(cm)"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel9">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="First_Joint(cm)"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel10">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Second_joint(cm)"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel11">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Width(cm)"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Thumb_Length">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="15.0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Indexfin_Len">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="5.0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="MiddleFin_len">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="2.3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="RingFin_Len">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="5.2"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="RingFin_LenActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="SmallFin_Len">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="8.5"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel12">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Length"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Palm_length">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="8.6"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Thumb_FS">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="10.0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="IndexFin_FS">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="6.3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="MiddleFin_Fs">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="8.6"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="RingFin_FS">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="9.3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Smallfin_FS">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="4.3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Thumb_sj">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="2.0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="IndexFin_SC">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="7.5"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="MiddleFin_SC">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="4.6"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="MiddleFin_SCActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="RingFin_SC">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="10.3"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="RingFin_SCActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="SmallFin_sc">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="6.3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Thumb_width">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="4.0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="IndexFin_width">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="9.6"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="IndexFin_widthActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="MiddleFin_width">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="4.6"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="RingFin_width">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="9.3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="SmallFin_width">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="4.3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel13">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Width"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Palm_width">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="1.6"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="Cancelbtn">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Cancel"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CancelbtnActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="Okaybtn">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Ok"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="OkaybtnActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
